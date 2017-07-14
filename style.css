@@ -1,0 +1,11 @@
+body{font-family: 'Roboto';}
+li.nav{display:inline; list-style-type:none;}
+#nav{display:inline; list-style-type:none;}
+#main{display:block;margin:0 auto;}
+#chart{margin:30px 500px 0px 500px;border:"1"}
+.biopic{margin-left: 440px;display: inline;}
+a.biopic:hover{text-decoration: none;}
+p{display: block; margin:30px 450px 0px 450px;text-align: justify;}
+li.nav{display:inline;list-style-type: none;}
+a{text-decoration: none;}
+a:hover{color:white;background-color: black;}
